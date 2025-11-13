@@ -1,4 +1,4 @@
-yfinance==0.2.51
+yfinance==0.2.66
 cufflinks==0.17.3
 joblib==1.4.2
 scikit-learn==1.5.1
